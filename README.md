@@ -61,7 +61,7 @@ Topic: [Classical Chinese](classical_chinese)
 - Add pretrained models for translation and punctuation.
 
 ### 2022/4/7
-Upload 2 new subprojects.
+- Upload 2 new subprojects.
 
 - - -
 
